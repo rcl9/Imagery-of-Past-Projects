@@ -1,7 +1,16 @@
 # Imagery-of-Past-Projects
-This repository contains a snapshot of some of my more interesting projects from the 1970's to late 1980's which I can say that I had built myself. I do have other interesting hardware projects but some of them were not built by me originally.
+This repository contains a snapshot of some of my more interesting projects from the 1970's to late 1980's which I can say that I had actually built myself. I do have other interesting hardware projects but some of them were not built by me originally. This will provide you with a bit more visual context as to what type and extent of projects I used to build before getting distracted with a professional career in similar activities. 
 
 I hope to get a good number of these projects properly documented and put up onto my Github site over time.
+
+If you would like to view them in a more interactive manner, on my Flickr site, then please follow these links:
+
+- [Hardware Projects](https://www.flickr.com/gp/40744368@N04/549zP4rgb2)
+- [Other Miscellaneous Hardware Projects](https://www.flickr.com/gp/40744368@N04/i1Q58q9NH1)
+- [R/C Airplane Projects](https://www.flickr.com/gp/40744368@N04/U8qJaETR5C)
+- [Woodworking Projects](https://www.flickr.com/gp/40744368@N04/SZQ6005GcB)
+
+Otherwise, let me inline a smaller subset within this single page:
 
 ## Hardware Projects
 
