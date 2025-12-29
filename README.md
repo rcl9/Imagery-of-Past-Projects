@@ -1,4 +1,4 @@
-# Imagery-of-Past-Projects
+# Imagery of Past Projects
 This repository contains a snapshot of some of my more interesting projects from the 1970's to late 1980's which I can say that I had actually built myself. I do have other interesting hardware projects but some of them were not built by me originally. This will provide you with a bit more visual context as to what type and extent of projects I used to build before getting distracted with a professional career in similar activities. 
 
 I hope to get a good number of these projects properly documented and put up onto my Github site over time.
