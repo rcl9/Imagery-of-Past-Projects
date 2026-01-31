@@ -6,8 +6,8 @@ It may be appropriate to try and explain visually how my journey to becoming a "
 
 I've always attributed my inquisitive interest in the sciences and engineering to this sole book which I can recall flipping through around age 5 or 6. As its cover states, it is "profusely illustrated with over 2500 pictures" from 1965. It is a truly wonderful book for the young mind. While other kids had books of animals, I had books about how things worked. 
 
-<img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:45%; height:auto;">
-<img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:45%; height:auto;">
+<img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:40%; height:auto;">
+<img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:40%; height:auto;">
 
 Indirectly, I'll also make reference to the "The Encyclopedia of Space" by Paul Hamlyn around that same period of my life. It didn't have a lot of impact on me but I do associate it with experiencing the Apollo moon program in the 1960s and early 70s. I was and continue to be a big fan of the Apollo program. 
 
@@ -15,18 +15,19 @@ Indirectly, I'll also make reference to the "The Encyclopedia of Space" by Paul 
 
 Relating to that last comment, I've had an armchair interest in astronomy since early childhood because I helped my father photograph the Dunlap Observatory in the late 1960s and also to meet a lot of interesting people at the University of Toronto while he did his official UofT photo shoots. This influenced me such that I indirectly got involved with astronomy viewing nights in the 2000s and 2010s.
 
-<img src="Dunlap Observatory.jpg" alt="" style="width:75%; height:auto;">
+<img src="Dunlap Observatory.jpg" alt="" style="width:30%; height:auto;">
 
 Between ages ~5 and ~10 I came into possession of stacks of 1950's and 1960's Popular Electronics, Popular Mechanics and Mechanics Illustrated magazines. These were *so very different* compared to the lesser magazines of latter decades. They were super hand's on with tons of DIY gadgets and things to build every month, with clear and concise explanations. This is when I could "feel" the need to build things but wasn't quite old enough to build a "garage addition" in the back-yard. Nevertheless, I had caught the bug and started to (try) and build things from these magazines. Naturally, they also painted a picture of a futuristic world where space travel and supersonic travel were possible.
 
-<img src="Popular Electronics.JPG" alt="" style="width:45%; height:auto;">
-<img src="Popular Mechanics.JPG" alt="" style="width:45%; height:auto;">
+<img src="Popular Electronics.JPG" alt="" style="width:40%; height:auto;">
+<img src="Popular Mechanics.JPG" alt="" style="width:40%; height:auto;">
 
 This page would not be complete if I did not make a mention of Mecanno. What I recall is that of going to a department store at Christmas time, for a few years, to look at all of the lovely new Mecanno kits. They came in numbered versions, with each higher number being more complex and being more expensive. I believe we eventually came to have 2 or 3 of the mid-priced kits. This was a popular toy for boys in the 1970s. If I had become a mechanical engineer then I'd say how much this building kit influenced me but rather it just became an early outlet to teach me how to follow instructions and turn them into something real and solid. It also taught me the value of money, as we just couldn't afford anything that was being marketed towards us. 
 
 <img src="Mecanno kit 4.jpg" alt="" style="width:30%; height:auto;">
 <img src="Mecanno kit 6.jpg" alt="" style="width:30%; height:auto;">
-<img src="Mecanno book example.jpg" alt="" style="width:30%; height:auto;">
+
+<img src="Mecanno book example.jpg" alt="" style="width:75%; height:auto;">
 
 Around age 11 I was seeking "something interesting and challenging" to build but for which I was actually capable of building. I was really starting to ramp up on my "project building" at that age. Being an avid reader of Scientific American I had it in my mind that I'd build the Nitirogen laser from the June 1974 issue. How hard could it be? This was influenced directly by the gas laser at the Ontario Science Centre which I first saw in 1970-1972 (which had been built by GE France for the 1967 Expo '67 in Montreal). As you can see, it did get built but I never got it to function since I didn't have access to a bottle of Nitrogen, pull a good vacuum or get a high voltage spike working. But it did influence me to build confidence in making a complex project from plans. 
 
@@ -43,7 +44,7 @@ Around that same time, from age 8 to 12, I got heavily into R/C airplane buildin
 
 I should ideally not mention this history as it was from a different and failed timeline, something that "could have been". For the first 12 years of my life I was "born into photography" and had a camera in my hand since I was 3. I would ogle over the 8mm and 16mm cameras in the counter display at Sears each weekend when I was 8 and 9 years old. At age 10, after working out a financing pay-back deal with my parents, I got a Eumig 8mm movie camera (no sound). That influenced me to make a series of "productions" in the basement, including a Red Barron influenced 30sec commercial for a breakfast cereal and several stop motion films. In another timeline I could easily have become a movie or television producer. However, it did have a #1 major impact on my life as it set in motion how I took to debt and credit, given the number of years it took me to pay it back to my parents. It made me realize how much effort it would take to pay down a debt if and when I may have had one. 
 
-<img src="Eumig Mini 5.jpg" alt="" style="width:75%; height:auto;">
+<img src="Eumig Mini 5.jpg" alt="" style="width:40%; height:auto;">
 
 In early 1975 I will always recall seeing the January 1975 issue of "Popular Electronics" on a table at our local library with the Altair 8800 computer on its front cover. I was immediately mesmerized by it. Alas, I was too young and without money to buy such an expensive kit. 
 
@@ -79,8 +80,8 @@ And I absolutely must mention how Radio Shack heavily influenced me around age 8
 
 In the late 1970s I was finally getting old enough to "slide and migrate into PC computing" just as the PC home computing market was starting. Around 1977 and 1978 I started to become influenced by the Heath product catalogue and all of its fascinating kits but with costs out of my range. I was enamoured by their Ham radio setups (and from "CQ" and "73" magazines) as well as their new Heath H8 home computer. Because of that Heath influence I recall, one evening, going to a local electronics college and trying to enroll in their night school educational program only to be told (politely) that I was far too young. 
 
-<img src="Heath_H8_1978.jpg" alt="" style="width:75%; height:auto;">
-<img src="Heath ham radio" alt="" style="width:75%; height:auto;">
+<img src="Heath_H8_1978.jpg" alt="" style="width:40%; height:auto;">
+<img src="Heath ham radio.jpg" alt="" style="width:40%; height:auto;">
 
 I was actually on the cusp of studying for my Ham radio license and getting into a traditional life of "being a Ham radio operator" when, at that same time, the TRS-80 Model I, PET, Apple II, IMSAI 8080 and Heath H8 (among other) computers came to market. I also got to play with a KIM-1 computer which I can say was the very first computer I toggled in a bootstrap routine by switches. I was hooked and my life would not be the same afterwards. I've long stated to myself that "If I was born 2 to 3 years earlier then I would have started a life into being a Ham radio operator and starting with a Imsai 8800 computer". 
 
@@ -93,9 +94,9 @@ I will not try to enumerate that computing phase of my life as it would take an 
 Since age 5, when I got a Magnus organ for Christmas, I've been interested, to some varying degrees, with music. This is an uneasy and oddly defined statement for me to make since I have little creative musical talent (being a logical engineer) but at the same time devoting a fair bit of my mental focus and life to music synthesis machine design. If I never got involved with computers or electronics then I may have easily become a record producer or sound engineer for sure. I have never been able to explain where I got the drive and focus but from the late 1970s onwards and right up to the 1990s I spent a lot of my time working towards "digital music synthesis" as a passion and  core fixation. The very first thing I ever did with my newly purchased Exidy Sorcerer was play "Daisy Bell" (as heard in 2001: A Space Odyssey") though an AM radio and noise emitted by the CPU. I would spend the next 10 years fixated with designing and building digital music synthesis machines and computers. 
 
 <img src="../Hardware/1979_11 - Exidy Sorcerer 6-bit music board.jpg" alt="" style="width:75%; height:auto;">
-<img src="../Hardware/1985_11 - MIDI drum pads trigger interface #1.jpg" alt="" style="width:75%; height:auto;">
-<img src="../Hardware/1987_03 - Phoenix MIDI Computer #6.jpg" alt="" style="width:75%; height:auto;">
-<img src="../Hardware/1988_11 - 68k processor for Pegasus DSP Multiprocessor music machine #3.jpg" alt="" style="width:75%; height:auto;">
+<img src="../Hardware/1985_11 - MIDI drum pads trigger interface %21.jpg" alt="" style="width:75%; height:auto;">
+<img src="../Hardware/1987_03 - Phoenix MIDI Computer %26.jpg" alt="" style="width:75%; height:auto;">
+<img src="../Hardware/1988_11 - 68k processor for Pegasus DSP Multiprocessor music machine %23.jpg" alt="" style="width:75%; height:auto;">
 
 However, since this page focusses on "What influenced me", I do have to draw attention to BYTE magazine and Steve Ciarcias's monthly articles. I vied for BYTE to arrive each month to see what new hardware device Steve had made. In retrospect I didn't build many of his devices but his articles did provide the fuel and enthusiasm for me to build everything else of that same era. 
 
