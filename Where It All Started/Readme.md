@@ -30,13 +30,13 @@ Around age 11 I was seeking "something interesting and challenging to build" but
 
 <img src="../Older Misc Hardware/1976_04 - Nitrogen laser (from June 74 Scientific American) %232.jpg" alt="" style="width:75%; height:auto;">
 
-For the record, my foray into [construction, woodworking and fine cabinetry design](https://www.flickr.com/gp/40744368@N04/SZQ6005GcB) (from an early age) was influenced by my father, his relatives and ancestors. Going back a hundred years, my grandfathers were all cabinetry people or carpenters. I just inherited their genes and was basically "born with a hammer in my hands". It took only 6 years to go from building simple bookends to a fine hutch and cabinet. When you are young you can learn fast. That probably would have become my vocation if I were born decades earlier.
+For the record, my foray into [construction, woodworking and fine cabinetry design](https://www.flickr.com/gp/40744368@N04/SZQ6005GcB) (from an early age) was influenced by my father, his relatives and ancestors. Going back a hundred years, my grandfathers were all cabinetry people or carpenters. I just inherited their genes and was basically "born with a hammer in my hands". It took only 6 years to go from building simple bookends to a hutch and cabinet. When you are young you can learn fast. That probably would have become my vocation if I were born decades earlier.
 
 <img src="../Woodworking/1980_03_25 - Candle stick tables (Cherry wood, Sept 1979 to March 25th 1980) and coffee table.jpg" alt="" style="width:75%; height:auto;">
 
 <img src="../Woodworking/1982_05 - Hutch and cabinet %232.jpg" alt="" style="width:45%; height:auto;">
 
-Around that same time, from age 8 to 12, I got heavily into R/C airplane building which is shown in [this album](https://www.flickr.com/gp/40744368@N04/U8qJaETR5C). I think this was, naturally, my first outlet to become a "builder of things". I recall enjoying the learning of building bigger and better planes as my talent and experience grew. I'm not sure of its original influence but I'd surmise that I got some balsa wood model kit(s) as gifts and then just learned from there onwards. My initial builds were pretty bad but I was approaching a professional builder by age 12 but then computers entered my life and my direction in life changed...
+Around that same time, from age 8 to 12, I got heavily into R/C airplane building which is shown in [this album](https://www.flickr.com/gp/40744368@N04/U8qJaETR5C). I think this was, naturally, my first outlet to become a "builder of things". I recall enjoying the learning of building bigger and better planes as my talent and experience grew. I'm not sure of its original influence but I'd surmise that I got some balsa wood model kit(s) as gifts and then just learned from there onwards. My initial builds were pretty bad but I was approaching a professional builder by age 12. However, computers then entered my life and my direction in life changed...
 
 <img src="../RC Airplanes/1979_07 - Field box article in July 1979 RC Modeller Magazine (first published and paid article).jpg" alt="" style="width:75%; height:auto;">
 
@@ -46,9 +46,9 @@ I should ideally not mention this history as it was from a different and failed 
 
 In early 1975 I will always recall seeing the January 1975 issue of "Popular Electronics" on a table at our local library with the Altair 8800 computer on its front cover. I was immediately mesmerized by it. Alas, I was too young and without money to buy such an expensive kit. 
 
-However, given my $5 weekly allowance, by 1976 and 1977 I would go out once per month and buy a slew of R/C Airplane, woodworking, electronics and Popular Mechanics magazines. I was just and only then "getting into the swing" of being a "builder of everything" and actually able to build whatever I had in mind. These magazines fueled my boundless enthusiasm to see what others have built and try to copy them. 
+However, given my $5 weekly allowance, by 1976 and 1977 I would go out once per month and buy a slew of R/C Airplane, woodworking, electronics and Popular Mechanics magazines. I was just and only then getting into the swing of being a "builder of everything" and actually able to build whatever I had in mind. These magazines fueled my boundless enthusiasm to see what others had built and try to replicate some of their work.
 
-It was at this time that I started to rebuild portions of my parents house (as trained by my ancestry of family carpenters since childhood), R/C airplanes, my word-working items and some of my early electronics projects which are documented in pictures elsewhere. 
+It was at this time that I started to rebuild portions of my parents house (as trained by my family relatives of carpenters since early  childhood), R/C airplanes, my word-working items and some of my early electronics projects which are documented in pictures elsewhere. 
 
 <img src="Radio Electronics.JPG" alt="" style="width:75%; height:auto;">
 
@@ -64,7 +64,7 @@ Radio Shack influenced me in so many ways, some of which were:
 
 - It was where I really got to use a home computer in a hand's on manner for the first time (TRS-80 Model I), before I got my own Exidy Sorcerer. 
 
-- The yearly catalogues were where I could ogle over the huge stereo/quad speakers and receivers. This lead to my early life of wanting to acquire a high quality stereo system and of building my own 12" [ducted speakers](/Woodorking/1983_06 - Speaker pair with 12in woofers.jpg).
+- The yearly catalogues were where I could ogle over the huge stereo/quad speakers and receivers. This lead to my early life of wanting to acquire a high quality stereo system and of building my own 12" [ducted speakers](/Woodworking/1983_06 - Speaker pair with 12in woofers.jpg).
 
 <img src="Radio Shack Catalogues.JPG" alt="" style="width:75%; height:auto;">
 
