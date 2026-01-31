@@ -6,7 +6,7 @@ It may be appropriate to try and explain visually how my journey to becoming a "
 
 I've always attributed my inquisitive interest in the sciences and engineering to this sole book which I can recall flipping through around age 5 or 6. As its cover states, it is "profusely illustrated with over 2500 pictures" from 1965. It is a truly wonderful book for the young mind. While other kids had books of animals, I had books about how things worked. 
 
-<img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:40%; height:auto;">  <img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:40%; height:auto;">
+<img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:40%; height:auto;">     <img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:40%; height:auto;">
 
 Indirectly, I'll also make reference to the "The Encyclopedia of Space" by Paul Hamlyn around that same period of my life. It didn't have a lot of impact on me but I do associate it with experiencing the Apollo moon program in the 1960s and early 70s. I was and continue to be a big fan of the Apollo program. 
 
@@ -18,11 +18,11 @@ Relating to that last comment, I've had an armchair interest in astronomy since 
 
 Between ages ~5 and ~10 I came into possession of stacks of 1950's and 1960's Popular Electronics, Popular Mechanics and Mechanics Illustrated magazines. These were *so very different* compared to the lesser magazines of latter decades. They were super hand's on with tons of DIY gadgets and things to build every month, with clear and concise explanations. This is when I could "feel" the need to build things but wasn't quite old enough to build a "garage addition" in the back-yard. Nevertheless, I had caught the bug and started to (try) and build things from these magazines. Naturally, they also painted a picture of a futuristic world where space travel and supersonic travel were possible.
 
-<img src="Popular Electronics.JPG" alt="" style="width:44%; height:auto;">  <img src="Popular Mechanics.JPG" alt="" style="width:45%; height:auto;">
+<img src="Popular Electronics.JPG" alt="" style="width:44%; height:auto;">     <img src="Popular Mechanics.JPG" alt="" style="width:45%; height:auto;">
 
 This page would not be complete if I did not make a mention of Mecanno. What I recall is that of going to a department store at Christmas time, for a few years, to look at all of the lovely new Mecanno kits. They came in numbered versions, with each higher number being more complex and being more expensive. I believe we eventually came to have 2 or 3 of the mid-priced kits. This was a popular toy for boys in the 1970s. If I had become a mechanical engineer then I'd say how much this building kit influenced me but rather it just became an early outlet to teach me how to follow instructions and turn them into something real and solid. It also taught me the value of money, as we just couldn't afford anything that was being marketed towards us. 
 
-<img src="Mecanno kit 4.jpg" alt="" style="width:45%; height:auto;">  <img src="Mecanno kit 6.jpg" alt="" style="width:45%; height:auto;">
+<img src="Mecanno kit 4.jpg" alt="" style="width:45%; height:auto;">      <img src="Mecanno kit 6.jpg" alt="" style="width:45%; height:auto;">
 
 <img src="Mecanno book example.jpg" alt="" style="width:60%; height:auto;">
 
@@ -78,7 +78,7 @@ And I absolutely must mention how Radio Shack heavily influenced me around age 8
 
 In the late 1970s I was finally getting old enough to "slide and migrate into PC computing" just as the PC home computing market was starting. Around 1977 and 1978 I started to become influenced by the Heath product catalogue and all of its fascinating kits but with costs out of my range. I was enamoured by their Ham radio setups (and from "CQ" and "73" magazines) as well as their new Heath H8 home computer. Because of that Heath influence I recall, one evening, going to a local electronics college and trying to enroll in their night school educational program only to be told (politely) that I was far too young. 
 
-<img src="Heath_H8_1978.jpg" alt="" style="width:45%; height:auto;">     <img src="Heath ham radio.jpg" alt="" style="width:45%; height:auto;">
+<img src="Heath_H8_1978.jpg" alt="" style="width:45%; height:auto;">        <img src="Heath ham radio.jpg" alt="" style="width:45%; height:auto;">
 
 I was actually on the cusp of studying for my Ham radio license and getting into a traditional life of "being a Ham radio operator" when, at that same time, the TRS-80 Model I, PET, Apple II, IMSAI 8080 and Heath H8 (among other) computers came to market. I also got to play with a KIM-1 computer which I can say was the very first computer I toggled in a bootstrap routine by switches. I was hooked and my life would not be the same afterwards. I've long stated to myself that "If I was born 2 to 3 years earlier then I would have started a life into being a Ham radio operator and starting with a Imsai 8800 computer". 
 
