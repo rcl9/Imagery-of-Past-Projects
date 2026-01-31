@@ -10,6 +10,10 @@ If you would like to view them in a more interactive manner, on my Flickr site, 
 - [R/C Airplane Projects](https://www.flickr.com/gp/40744368@N04/U8qJaETR5C)
 - [Woodworking Projects](https://www.flickr.com/gp/40744368@N04/SZQ6005GcB)
 
+And the following page provides a visual look at the influences which affected my early life to becoming a "builder of things".
+
+- [Where and How Did it all Start?](Where It All Started/ReadMe.md)
+
 Otherwise, let me inline a smaller subset within this single page:
 
 ## Hardware Projects
@@ -105,4 +109,9 @@ Otherwise, let me inline a smaller subset within this single page:
 1977 - Ceramic tiled checkerboards for sale
 
 <img src="/Woodworking/1977 - Ceramic tiled checkerboards for sale %233.jpg" alt="" style="width:75%; height:auto;">
+
+## Where and How Did it all Start?
+
+[This page](Where It All Started/ReadMe.md) provides a visual look at the influences which affected my early life to becoming a "builder of things".
+
 
