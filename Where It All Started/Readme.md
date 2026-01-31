@@ -1,6 +1,6 @@
 # Where and How Did it all Start? The Influences Which Made Me a "Builder of Things"
 
-It may be appropriate to try and explain visually how my journey to becoming a "builder of all things" started. This page provides a  curt overview of some of the things in my early life which I felt were instrumental to guiding me in the right direction to become the person that I am. In no means is this complete but as it gleams over some of the more significant aspects of my life, including my lifetime of work in software development. Please note that almost all items you may see were actually purchased and paid by myself, even at a very young age, as I never got any free ride or handouts. 
+It may be appropriate to try and explain visually how my journey to becoming a "builder of all things" started. This page provides a  curt overview of some aspects of my early life which I felt were instrumental to guiding me in the right direction to become the person that I am today. By no means is this a complete picture but as it gleams over some of the more significant aspects of my life, including my lifetime of work in software development and other endless 'projects'. Please note that almost all items you may see were actually purchased and paid by myself, even at a very young age, as I never got any free rides nor handouts. 
 
 ## A Visual Timeline to Some of the Main Influences in my Early Life
 
