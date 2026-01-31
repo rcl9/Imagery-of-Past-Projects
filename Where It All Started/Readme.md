@@ -8,7 +8,7 @@ I've always attributed my inquisitive interest in the sciences and engineering t
 
 <img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:40%; height:auto;">     <img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:40%; height:auto;">
 
-<img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:auto;height:40%">     <img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:auto;height:40%">
+<img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:auto;height:70%">     <img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:auto;height:70%">
 
 Indirectly, I'll also make reference to the "The Encyclopedia of Space" by Paul Hamlyn around that same period of my life. It didn't have a lot of impact on me but I do associate it with experiencing the Apollo moon program in the 1960s and early 70s. I was and continue to be a big fan of the Apollo program. 
 
