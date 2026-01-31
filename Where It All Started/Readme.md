@@ -1,6 +1,6 @@
 # Where and How Did it all Start? The Influences Which Made Me a "Builder of Things"
 
-It may be appropriate to try and explain visually how my journey to becoming a "builder of all things" started. This page provides a very curt overview of some of the things in my early life which I felt were instrumental to guiding me in the right direction to become the person that I am. In no means is this complete but as it gleams over some of the more significant aspects of my life, including my lifetime of work in software development. Please note that almost all items you may see were actually purchased and paid by myself, even at a very young age, as I never got any free ride or handouts. 
+It may be appropriate to try and explain visually how my journey to becoming a "builder of all things" started. This page provides a  curt overview of some of the things in my early life which I felt were instrumental to guiding me in the right direction to become the person that I am. In no means is this complete but as it gleams over some of the more significant aspects of my life, including my lifetime of work in software development. Please note that almost all items you may see were actually purchased and paid by myself, even at a very young age, as I never got any free ride or handouts. 
 
 ## A Visual Timeline to Some of the Main Influences in my Early Life
 
@@ -8,17 +8,15 @@ I've always attributed my inquisitive interest in the sciences and engineering t
 
 <img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:40%; height:auto;">     <img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:40%; height:auto;">
 
-<img src="Odhams Encyclopedia for Chidren.JPG" alt="" style="width:auto;height:70%">     <img src="Odhams Encyclopedia for Chidren 2.JPG" alt="" style="width:auto;height:70%">
-
-Indirectly, I'll also make reference to the "The Encyclopedia of Space" by Paul Hamlyn around that same period of my life. It didn't have a lot of impact on me but I do associate it with experiencing the Apollo moon program in the 1960s and early 70s. I was and continue to be a big fan of the Apollo program. 
+Indirectly, I'll also make reference to the "The Encyclopedia of Space" by Paul Hamlyn (1968) around that same period of my life. It didn't have a lot of impact on me but I do associate it with experiencing the Apollo moon program in the 1960s and early 70s. I was and continue to be a big fan of the Apollo program. 
 
 <img src="The Enyclopedia of Space - Paul Hamlyn 2.JPG" alt="" style="width:75%; height:auto;">
 
-Relating to that last comment, I've had an armchair interest in astronomy since early childhood because I helped my father photograph the Dunlap Observatory in the late 1960s and also to meet a lot of interesting people at the University of Toronto while he did his official UofT photo shoots. This influenced me such that I indirectly got involved with astronomy viewing nights in the 2000s and 2010s.
+Relating to that last comment, I've had an armchair interest in astronomy since early childhood because I helped my father photograph the Dunlap Observatory in the late 1960s (see the actual photo below). I also got to meet a lot of interesting people at the University of Toronto while he did his official UofT photo shoots. This influenced me such that I indirectly got involved with astronomy viewing nights in the 2000s and 2010s.
 
 <img src="Dunlap Observatory.jpg" alt="" style="width:40%; height:auto;">
 
-Between ages ~5 and ~10 I came into possession of stacks of 1950's and 1960's Popular Electronics, Popular Mechanics and Mechanics Illustrated magazines. These were *so very different* compared to the lesser magazines of latter decades. They were super hand's on with tons of DIY gadgets and things to build every month, with clear and concise explanations. This is when I could "feel" the need to build things but wasn't quite old enough to build a "garage addition" in the back-yard. Nevertheless, I had caught the bug and started to (try) and build things from these magazines. Naturally, they also painted a picture of a futuristic world where space travel and supersonic travel were possible.
+Between ages ~5 and ~10 I came into possession of stacks of 1950's and 1960's Popular Electronics, Popular Mechanics and Mechanics Illustrated magazines. These were *so very different* compared to the lesser magazines of latter decades. They were super hand's on with tons of DIY gadgets and things to build every month, with clear and concise visual depictions. This is when I could "feel" the need to build things but wasn't quite old enough to build a "garage addition" in the back-yard. Nevertheless, I had caught the bug and started to (try) and build things from these magazine projects. These photos are from the same collection of magazines which I've kept. 
 
 <img src="Popular Electronics.JPG" alt="" style="width:44%; height:auto;">     <img src="Popular Mechanics.JPG" alt="" style="width:45%; height:auto;">
 
@@ -28,11 +26,11 @@ This page would not be complete if I did not make a mention of Mecanno. What I r
 
 <img src="Mecanno book example.jpg" alt="" style="width:60%; height:auto;">
 
-Around age 11 I was seeking "something interesting and challenging" to build but for which I was actually capable of building. I was really starting to ramp up on my "project building" at that age. Being an avid reader of Scientific American I had it in my mind that I'd build the Nitirogen laser from the June 1974 issue. How hard could it be? This was influenced directly by the gas laser at the Ontario Science Centre which I first saw in 1970-1972 (which had been built by GE France for the 1967 Expo '67 in Montreal). As you can see, it did get built but I never got it to function since I didn't have access to a bottle of Nitrogen, pull a good vacuum or get a high voltage spike working. But it did influence me to build confidence in making a complex project from plans. 
+Around age 11 I was seeking "something interesting and challenging to build" but for which I was actually capable of building. I was really starting to ramp up on my "project building" at that age. Being an avid reader of Scientific American I had it in my mind that I'd build the Nitirogen laser from the June 1974 issue. How hard could it be? This was influenced directly by the gas laser at the Ontario Science Centre which I first saw in 1970-1972 (which had been built by GE France for the 1967 Expo '67 in Montreal). As you can see, it did get built but I never got it to function since I didn't have access to a bottle of Nitrogen, to pull a good vacuum or to get a high voltage spike working. But it did influence me to build confidence in making a complex project from plans. 
 
 <img src="../Older Misc Hardware/1976_04 - Nitrogen laser (from June 74 Scientific American) %232.jpg" alt="" style="width:75%; height:auto;">
 
-For the record, my foray into construction, woodworking and fine cabinetry design (from an early age) was influenced by my father, his relatives and ancestors. Going back a hundred years, my grandfathers were all cabinetry people or carpenters. I just inherited their genes and was basically "born with a hammer in my hands". It took only 6 years to go from building simple bookends to a fine hutch and cabinet. When you are young you can learn fast. That probably would have become my vocation if I were born decades earlier.
+For the record, my foray into [construction, woodworking and fine cabinetry design](/Woodworking) (from an early age) was influenced by my father, his relatives and ancestors. Going back a hundred years, my grandfathers were all cabinetry people or carpenters. I just inherited their genes and was basically "born with a hammer in my hands". It took only 6 years to go from building simple bookends to a fine hutch and cabinet. When you are young you can learn fast. That probably would have become my vocation if I were born decades earlier.
 
 <img src="../Woodworking/1980_03_25 - Candle stick tables (Cherry wood, Sept 1979 to March 25th 1980) and coffee table.jpg" alt="" style="width:75%; height:auto;">
 
