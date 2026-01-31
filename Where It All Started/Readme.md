@@ -64,7 +64,7 @@ Radio Shack influenced me in so many ways, some of which were:
 
 - It was where I really got to use a home computer in a hand's on manner for the first time (TRS-80 Model I), before I got my own Exidy Sorcerer. 
 
-- The yearly catalogues were where I could ogle over the huge stereo/quad speakers and receivers. This lead to my early life of wanting to acquire a high quality stereo system and of building my own 12" [ducted speakers](../Woodworking/1983_06 - Speaker pair with 12in woofers.jpg).
+- The yearly catalogues were where I could ogle over the huge stereo/quad speakers and receivers. This lead to my early life of wanting to acquire a high quality stereo system and of building my own 12" [ducted speakers](<../Woodworking/1983_06 - Speaker pair with 12in woofers.jpg>).
 
 <img src="Radio Shack Catalogues.JPG" alt="" style="width:75%; height:auto;">
 
