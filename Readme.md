@@ -12,7 +12,7 @@ If you would like to view them in a more interactive manner, on my Flickr site, 
 
 And the following page provides a visual look at the influences which affected my early life to becoming a "builder of things".
 
-- [Where and How Did it all Start](</Where It All Started/Readme.md>)?
+- [Where and How Did it all Start?](</Where It All Started/Readme.md>)
 
 Otherwise, let me inline a smaller subset within this single page:
 
