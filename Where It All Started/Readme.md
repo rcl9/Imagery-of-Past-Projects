@@ -32,7 +32,9 @@ Around age 11 I was seeking "something interesting and challenging" to build but
 
 For the record, my foray into construction, woodworking and fine cabinetry design (from an early age) was influenced by my father, his relatives and ancestors. Going back a hundred years, my grandfathers were all cabinetry people or carpenters. I just inherited their genes and was basically "born with a hammer in my hands". It took only 6 years to go from building simple bookends to a fine hutch and cabinet. When you are young you can learn fast. That probably would have become my vocation if I were born decades earlier.
 
-<img src="../Woodworking/1980_03_25 - Candle stick tables (Cherry wood, Sept 1979 to March 25th 1980) and coffee table.jpg" alt="" style="width:45%; height:auto;">   <img src="../Woodworking/1982_05 - Hutch and cabinet %232.jpg" alt="" style="width:45%; height:auto;">
+<img src="../Woodworking/1980_03_25 - Candle stick tables (Cherry wood, Sept 1979 to March 25th 1980) and coffee table.jpg" alt="" style="width:75%; height:auto;">
+
+<img src="../Woodworking/1982_05 - Hutch and cabinet %232.jpg" alt="" style="width:45%; height:auto;">
 
 Around that same time, from age 8 to 12, I got heavily into R/C airplane building which is shown in [this album](/RC Airplanes). I think this was, naturally, my first outlet to become a "builder of things". I recall enjoying the learning of building bigger and better planes as my talent and experience grew. I'm not sure of its original influence but I'd surmise that I got some balsa wood model kit(s) as gifts and then just learned from there onwards. My initial builds were pretty bad but I was approaching a professional builder by age 12 but then computers entered my life and my direction in life changed...
 
