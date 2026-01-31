@@ -14,7 +14,7 @@ Indirectly, I'll also make reference to the "The Encyclopedia of Space" by Paul 
 
 Relating to that last comment, I've had an armchair interest in astronomy since early childhood because I helped my father photograph the Dunlap Observatory in the late 1960s and also to meet a lot of interesting people at the University of Toronto while he did his official UofT photo shoots. This influenced me such that I indirectly got involved with astronomy viewing nights in the 2000s and 2010s.
 
-<img src="Dunlap Observatory.jpg" alt="" style="width:30%; height:auto;">
+<img src="Dunlap Observatory.jpg" alt="" style="width:40%; height:auto;">
 
 Between ages ~5 and ~10 I came into possession of stacks of 1950's and 1960's Popular Electronics, Popular Mechanics and Mechanics Illustrated magazines. These were *so very different* compared to the lesser magazines of latter decades. They were super hand's on with tons of DIY gadgets and things to build every month, with clear and concise explanations. This is when I could "feel" the need to build things but wasn't quite old enough to build a "garage addition" in the back-yard. Nevertheless, I had caught the bug and started to (try) and build things from these magazines. Naturally, they also painted a picture of a futuristic world where space travel and supersonic travel were possible.
 
@@ -22,17 +22,17 @@ Between ages ~5 and ~10 I came into possession of stacks of 1950's and 1960's Po
 
 This page would not be complete if I did not make a mention of Mecanno. What I recall is that of going to a department store at Christmas time, for a few years, to look at all of the lovely new Mecanno kits. They came in numbered versions, with each higher number being more complex and being more expensive. I believe we eventually came to have 2 or 3 of the mid-priced kits. This was a popular toy for boys in the 1970s. If I had become a mechanical engineer then I'd say how much this building kit influenced me but rather it just became an early outlet to teach me how to follow instructions and turn them into something real and solid. It also taught me the value of money, as we just couldn't afford anything that was being marketed towards us. 
 
-<img src="Mecanno kit 4.jpg" alt="" style="width:30%; height:auto;">  <img src="Mecanno kit 6.jpg" alt="" style="width:30%; height:auto;">
+<img src="Mecanno kit 4.jpg" alt="" style="width:40%; height:auto;">  <img src="Mecanno kit 6.jpg" alt="" style="width:40%; height:auto;">
 
-<img src="Mecanno book example.jpg" alt="" style="width:75%; height:auto;">
+<img src="Mecanno book example.jpg" alt="" style="width:60%; height:auto;">
 
 Around age 11 I was seeking "something interesting and challenging" to build but for which I was actually capable of building. I was really starting to ramp up on my "project building" at that age. Being an avid reader of Scientific American I had it in my mind that I'd build the Nitirogen laser from the June 1974 issue. How hard could it be? This was influenced directly by the gas laser at the Ontario Science Centre which I first saw in 1970-1972 (which had been built by GE France for the 1967 Expo '67 in Montreal). As you can see, it did get built but I never got it to function since I didn't have access to a bottle of Nitrogen, pull a good vacuum or get a high voltage spike working. But it did influence me to build confidence in making a complex project from plans. 
 
-<img src="../Older Misc Hardware/1976_04 - Nitrogen laser (from June 74 Scientific American) #2.jpg" alt="" style="width:75%; height:auto;">
+<img src="../Older Misc Hardware/1976_04 - Nitrogen laser (from June 74 Scientific American) %22.jpg" alt="" style="width:75%; height:auto;">
 
 For the record, my foray into construction, woodworking and fine cabinetry design (from an early age) was influenced by my father, his relatives and ancestors. Going back a hundred years, my grandfathers were all cabinetry people or carpenters. I just inherited their genes and was basically "born with a hammer in my hands". It took only 6 years to go from building simple bookends to a fine hutch and cabinet. When you are young you can learn fast. That probably would have become my vocation if I were born decades earlier.
 
-<img src="../Woodworking/1980_03_25 - Candle stick tables (Cherry wood, Sept 1979 to March 25th 1980) and coffee table.jpg" alt="" style="width:40%; height:auto;">   <img src="../Woodworking/1982_05 - Hutch and cabinet #2.jpg" alt="" style="width:40%; height:auto;">
+<img src="../Woodworking/1980_03_25 - Candle stick tables (Cherry wood, Sept 1979 to March 25th 1980) and coffee table.jpg" alt="" style="width:40%; height:auto;">   <img src="../Woodworking/1982_05 - Hutch and cabinet %22.jpg" alt="" style="width:40%; height:auto;">
 
 Around that same time, from age 8 to 12, I got heavily into R/C airplane building which is shown in [this album](/RC Airplanes). I think this was, naturally, my first outlet to become a "builder of things". I recall enjoying the learning of building bigger and better planes as my talent and experience grew. I'm not sure of its original influence but I'd surmise that I got some balsa wood model kit(s) as gifts and then just learned from there onwards. My initial builds were pretty bad but I was approaching a professional builder by age 12 but then computers entered my life and my direction in life changed...
 
