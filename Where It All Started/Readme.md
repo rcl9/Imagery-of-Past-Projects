@@ -44,7 +44,7 @@ I should ideally not mention this history as it was from a different and failed 
 
 <img src="Eumig Mini 5.jpg" alt="" style="width:40%; height:auto;">
 
-In early 1975 I will always recall seeing the January 1975 issue of "Popular Electronics" on a table at our local library with the Altair 8800 computer on its front cover. I was immediately mesmerized by it. Alas, I was too young and without money to buy such an expensive kit. 
+In early 1975 I will always recall seeing the [January 1975 issue of "Popular Electronics"](https://archive.org/embed/197501PopularElectronics) on a table at our local library with the Altair 8800 computer on its front cover. I was immediately mesmerized by it. Alas, I was too young and without money to buy such an expensive kit. 
 
 However, given my $5 weekly allowance, by 1976 and 1977 I would go out once per month and buy a slew of R/C Airplane, woodworking, electronics and Popular Mechanics magazines. I was just and only then getting into the swing of being a "builder of everything" and actually able to build whatever I had in mind. These magazines fueled my boundless enthusiasm to see what others had built and try to replicate some of their work.
 
@@ -64,7 +64,7 @@ Radio Shack influenced me in so many ways, some of which were:
 
 - It was where I really got to use a home computer in a hand's on manner for the first time (TRS-80 Model I), before I got my own Exidy Sorcerer. 
 
-- The yearly catalogues were where I could ogle over the huge stereo/quad speakers and receivers, among other items attracting my attention. This lead to my early life of wanting to (eventually) acquire a high quality stereo system and of building my own 12" [ducted speakers](<../Woodworking/1983_06 - Speaker pair with 12in woofers.jpg>).
+- The <a href="https://www.radioshackcatalogs.com">yearly catalogues</a> were where I could ogle over the huge stereo/quad speakers and receivers, among other items attracting my attention. This lead to my early life of wanting to (eventually) acquire a high quality stereo system and of building my own 12" [ducted speakers](<../Woodworking/1983_06 - Speaker pair with 12in woofers.jpg>).
 
 <img src="Radio Shack Catalogues.JPG" alt="" style="width:75%; height:auto;">
 
@@ -76,7 +76,7 @@ And I absolutely must mention how Radio Shack heavily influenced me around age 8
 
 <img src="Radio Shack catalogue - TV antenna.JPG" alt="" style="width:75%; height:auto;">
 
-In the late 1970s I was finally getting old enough to "slide and migrate into PC computing" just as the PC home computing market was starting. Around 1977 and 1978 I started to become influenced by the Heath product catalogue and all of its fascinating kits but with costs out of my range. I was enamoured by their Ham radio setups (and from "CQ" and "73" magazines) as well as their new Heath H8 home computer. Because of that Heath influence I recall, one evening, going to a local electronics college and trying to enroll in their night school educational program only to be told (politely) that I was far too young. 
+In the late 1970s I was finally getting old enough to "slide and migrate into PC computing" just as the PC home computing market was starting. Around 1977 and 1978 I started to become influenced by the <a href="https://heathkitcatalogs.com/catalogs/1970/winter-1978">Heath product catalogue</a> and all of its fascinating kits but with costs out of my range. I was enamoured by their Ham radio setups (and from "CQ" and "73" magazines) as well as their new Heath H8 home computer. Because of that Heath influence I recall, one evening, going to a local electronics college and trying to enroll in their night school educational program only to be told (politely) that I was far too young. 
 
 <img src="Heath_H8_1978.jpg" alt="" style="width:45%; height:auto;">        <img src="Heath ham radio.jpg" alt="" style="width:45%; height:auto;">
 
@@ -88,7 +88,7 @@ I will not try to enumerate that computing phase of my life as it would take an 
 
 <img src="../Hardware/1984 - Exidy Sorcerer, MX-80, Calcomp 8in drives, Shugart 801 8in drive, Livermore Star modem.jpg" alt="" style="width:75%; height:auto;">
 
-Since age 5, when I got a Magnus play organ for Christmas, I've been interested, to some varying degrees, with music. This is an uneasy and oddly defined statement for me to make since I have little creative musical talent (being a logical engineer) but at the same time devoting a fair bit of my mental focus and life to digital music synthesis machine design. If I never got involved with computers nor electronics then I may have easily become a record producer or sound engineer for sure. I have never been able to explain where I got the drive and focus but from the late 1970s onwards and right up to the 1990s I spent a lot of my time working towards "digital music synthesis" as a passion and  core fixation. The very first thing I ever did with my newly purchased Exidy Sorcerer was play "Daisy Bell" (as heard in 2001: A Space Odyssey) though an AM radio and noise emitted by the CPU. I would spend the next 10 years fixated with designing and building digital music synthesis machines and computers. 
+Since age 5, when I got a Magnus play organ for Christmas, I've been interested, to some varying degrees, with music. This is an uneasy and oddly defined statement for me to make since I have little creative musical talent (being a logical engineer) but at the same time devoting a fair bit of my mental focus and life to digital music synthesis machine design. If I never got involved with computers nor electronics then I may have easily become a record producer or sound engineer for sure. I have never been able to explain where I got the drive and focus but from the late 1970s onwards and right up to the 1990s I spent a lot of my time working towards "digital music synthesis" as a passion and  core fixation. The very first thing I ever did with my newly purchased Exidy Sorcerer was play "<a href = "https://en.wikipedia.org/wiki/Daisy_Bell">Daisy Bell</a>" (as heard in 2001: A Space Odyssey) though an AM radio and noise emitted by the CPU. I would spend the next 10 years fixated with designing and building digital music synthesis machines and computers. 
 
 <img src="../Hardware/1979_11 - Exidy Sorcerer 6-bit music board.jpg" alt="" style="width:75%; height:auto;">
 
@@ -98,11 +98,11 @@ Since age 5, when I got a Magnus play organ for Christmas, I've been interested,
 
 <img src="../Hardware/1988_11 - 68k processor for Pegasus DSP Multiprocessor music machine %233.jpg" alt="" style="width:75%; height:auto;">
 
-However, since this page focusses on "What influenced me", I do have to draw attention to BYTE magazine and Steve Ciarcias's monthly articles. I waited anxiously for BYTE to arrive each month to see what new hardware device Steve had made. In retrospect I didn't build many of his devices but his articles did provide the fuel and enthusiasm for me to build everything else of that same era. 
+However, since this page focusses on "What influenced me", I do have to draw attention to BYTE magazine and <a href="https://circuitcellar.com/how-it-all-began">Steve Ciarcias' monthly articles</a>. I waited anxiously for BYTE to arrive each month to see what new hardware device Steve had made. In retrospect I didn't build many of his devices but his articles did provide the fuel and enthusiasm for me to build everything else of that same era. 
 
 <img src="BYTE and Ciarcia's Circuit Cellar.JPG" alt="" style="width:75%; height:auto;">
 
-This page would not be complete if I did not mention "Basic Computer Games" edited by David Ahl. Young people today will just not be able to relate to this explanation whatsoever. When these initial home computers came out in the late 1970's there was literally no software for them and any that existed were sold on cassette at a fair 
+This page would not be complete if I did not mention "<a href="https://archive.org/details/basic-computer-games-microcomputer-edition_202207">Basic Computer Games</a>" edited by David Ahl. Young people today will just not be able to relate to this explanation whatsoever. When these initial home computers came out in the late 1970's there was literally no software for them and any that existed were sold on cassette at a fair 
 cost. Most people would buy magazines and hand type in the several page machine language opcode or BASIC listings. I recall spending several summer vacations hand typing in most of the games in these two books. Why would anyone be so insane to do so? Because there just wasn't any other options at the time. Also, many games (in these books and magazines) would often come with illustrations to make you believe that you'd be running a real VR simulation in 3D with amazing 3D graphics only to find that the resulting game was two [ ] brackets moving slowly in the middle of the screen which was super disappointing. You have to keep in mind that these machines were so slow that  refreshing a page of simple text on the 40x24 character screen would take a second or two. Nonetheless, at that time, we were all enthralled to even be doing such "advanced computing" in our own homes. As noted above, the computing world was changing by the minute and hence there was always something new to look forward to every few weeks - we've lost all of that in our modern staid times.
 
 <img src="Basc Computer Games by David Ahl.JPG" alt="" style="width:75%; height:auto;">
@@ -111,7 +111,7 @@ For historical reference, I'll also make mention to my fascination of "trying to
 
 <img src="TRS80 tech manuals.JPG" alt="" style="width:75%; height:auto;">
 
-For good measure, I'll also mention this "S100 Bus Handbook" for some additional historical perspective. From ~1975 most desktop computers (like the IMSAI 8080, etc) were based on the S-100 bus and the CP/M operating system (both of which my expanded Exidy Sorcerer eventually came to have). A machine would be composed of a CPU card, memory card(s), I/O card and disk controller card; all of which were vastly expensive and mostly geared towards business users. This was a time when the IBM PC was yet to be introduced. This book had some influence on me as I had used it to learn how to design and build my own S-100 I/O card as seen in this photo.
+For good measure, I'll also mention this "S-100 Bus Handbook" for some additional historical perspective. From ~1975 most desktop computers (like the IMSAI 8080, etc) were based on the S-100 bus and the CP/M operating system (both of which my expanded Exidy Sorcerer eventually came to have). A machine would be composed of a CPU card, memory card(s), I/O card and disk controller card; all of which were vastly expensive and mostly geared towards business users. This was a time when the IBM PC was yet to be introduced. This book had some influence on me as I had used it to learn how to design and build my own S-100 I/O card as seen in this photo.
 
 <img src="S100 Bus Handbook and S100 IO card 1983-1984.JPG" alt="" style="width:75%; height:auto;">
 
