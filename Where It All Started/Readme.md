@@ -46,7 +46,7 @@ I should ideally not mention this history as it was from a different and failed 
 
 In early 1975 I will always recall seeing the [January 1975 issue of "Popular Electronics"](https://archive.org/embed/197501PopularElectronics) on a table at our local library with the Altair 8800 computer on its front cover. I was immediately mesmerized by it. Alas, I was too young and without money to buy such an expensive kit. Fortunately I waited a few more years while these machines matured and became more integrated.
 
-<img src="Altair 8800.jpg" alt="" style="width:75%; height:auto;">
+<img src="Altair 8800.jpg" alt="" style="width:45%; height:auto;">
 
 However, given my $5 weekly allowance, by 1976 and 1977 I would go out once per month and buy a slew of R/C Airplane, woodworking, electronics and Popular Mechanics magazines. I was just and only then getting into the swing of being a "builder of everything" and actually able to build whatever I had in mind. These magazines fueled my boundless enthusiasm to see what others had built and try to replicate some of their work.
 
