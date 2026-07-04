@@ -1,6 +1,6 @@
-# Where and How Did it all Start? The Influences Which Made Me a "Builder of Things"
+# Where and How Did it all Start? The Influences Which Made Me a "Builder of Things - The First 24 Years"
 
-It may be appropriate to try and visually explain how my journey to becoming a "builder of all things" started. This page provides a  short overview of some aspects of my early life which I felt were instrumental to guiding me in the right direction to become the person that I am today. By no means is this a complete picture but as it gleams over some of the more significant aspects of my life, including my lifetime of work in software development and other endless 'projects'. Please note that almost all items you may see were actually purchased and paid by myself, even at a very young age, as I never got any free rides nor handouts. 
+It may be appropriate to try and visually explain how my journey to becoming a "builder of all things" started. This page provides a  short overview of some aspects of my early life which I felt were instrumental to guiding me in the right direction to become the person that I am today. By no means is this a complete picture but as it gleams over some of the more significant aspects of my life, including my lifetime of work in software development and other endless 'projects'. Please note that almost all items you may see in these images were actually purchased and paid by myself, even at a very young age, as I never got any free rides nor handouts. 
 
 ## A Visual Timeline to Some of the Main Influences in my Early Life
 
@@ -90,7 +90,7 @@ I will not try to enumerate that computing phase of my life as it would take an 
 
 <img src="../Hardware/1984 - Exidy Sorcerer, MX-80, Calcomp 8in drives, Shugart 801 8in drive, Livermore Star modem.jpg" alt="" style="width:75%; height:auto;">
 
-Since age 5, when I got a Magnus play organ for Christmas, I've been interested, to some varying degrees, with music. This is an uneasy and oddly defined statement for me to make since I have little creative musical talent (being a logical engineer) but at the same time devoting a fair bit of my mental focus and life to digital music synthesis machine design. If I never got involved with computers nor electronics then I may have easily become a record producer or sound engineer for sure. I have never been able to explain where I got the drive and focus but from the late 1970s onwards and right up to the 1990s I spent a lot of my time working towards "digital music synthesis" as a passion and  core fixation. The very first thing I ever did with my newly purchased Exidy Sorcerer was play "<a href = "https://en.wikipedia.org/wiki/Daisy_Bell">Daisy Bell</a>" (as heard in 2001: A Space Odyssey) though an AM radio and noise emitted by the CPU. I would spend the next 10 years fixated with designing and building digital music synthesis machines and computers. 
+Since age 5, when I got a Magnus play organ for Christmas, I've been interested, to some varying degrees, with music. This is an uneasy and oddly defined statement for me to make since I have little creative musical talent (being a logical engineer) but at the same time devoting a fair bit of my mental focus and life to digital music synthesis machine design. If I never got involved with computers nor electronics then I may have easily become a record producer or sound engineer for sure. I have never been able to explain where I got the drive and focus but from the late 1970s onwards and right up to the 1990s I spent a lot of my time working towards "digital music synthesis" as a passion and  core fixation. The very first thing I ever did with my newly purchased Exidy Sorcerer was play "<a href = "https://en.wikipedia.org/wiki/Daisy_Bell">Daisy Bell</a>" (as heard in 2001: A Space Odyssey) though an AM radio and noise emitted by the CPU. I would spend the next 10 years fixated with designing and building digital music synthesis machines and computers, as exemplified with these project photos:
 
 <img src="../Hardware/1979_11 - Exidy Sorcerer 6-bit music board.jpg" alt="" style="width:75%; height:auto;">
 
@@ -119,3 +119,14 @@ For good measure, I'll also mention this "S-100 Bus Handbook" for some additiona
 
 That covers most of the main influences in the first 24 years of my life. The remainder of my life would be primarily guided by these early-life influences and experiences.
 
+## Some Related References
+
+- The main [landing page](https://rcl9.github.io) which has a short visual and textual overview of each of my historical repositories. 
+
+- [Hardware Projects](https://www.flickr.com/gp/40744368@N04/549zP4rgb2)
+
+- [Other Miscellaneous Hardware Projects (incl. 1975 nitrogen laser)](https://www.flickr.com/gp/40744368@N04/i1Q58q9NH1)
+
+- [R/C Airplane Projects](https://www.flickr.com/gp/40744368@N04/U8qJaETR5C)
+
+- [Woodworking Projects](https://www.flickr.com/gp/40744368@N04/SZQ6005GcB)
